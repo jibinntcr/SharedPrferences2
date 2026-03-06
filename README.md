@@ -1,4 +1,3 @@
-This **README** is designed for your BITS Pilani students to follow along with the GitHub repository. It explains the project in layman's terms while highlighting the core Android persistence concepts.
 
 
 # 📱 Student Enrollment App - SharedPreferences Demo
