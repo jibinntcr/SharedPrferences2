@@ -82,3 +82,6 @@ While simple, **SharedPreferences** has limitations your we should know:
 **Instructor:** Jibin N 
 
 Would you like me to add a section on how to inspect the physical `.xml` file on a device using the **Device File Explorer**?
+
+<img width="1257" height="830" alt="Screenshot 2026-03-06 at 10 17 57 AM" src="https://github.com/user-attachments/assets/ee4fad0b-88f3-466e-af2a-28a8b1457d7c" />
+
